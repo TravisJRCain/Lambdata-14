@@ -1,6 +1,5 @@
-import numpy as np 
-import pandas as pd 
-print('Hello World')
+import numpy as np
+
 
 def obj_jister(df):
     '''
