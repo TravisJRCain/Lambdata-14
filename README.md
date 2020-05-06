@@ -1,4 +1,6 @@
-# Lambdata-14
+# Contributor's Guide
+
+# Lambdata-Travis-Cain
 
 ## Installation
 
@@ -9,8 +11,9 @@ Then activate the virtual environment:
 TODO
 
 ```sh
-pipenv install
+pip install pip install -i https://test.pypi.org/simple/ lambdata-Travis-Cain==1.3
 ```
+
 ## Usage
 
-TODO
+Use on specific functions.

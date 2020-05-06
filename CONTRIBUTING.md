@@ -13,7 +13,9 @@ TODO
 ```sh
 pip install pip install -i https://test.pypi.org/simple/ lambdata-Travis-Cain==1.1
 ```
-
 ## Usage
 
-Use on specific functions.
+```sh
+python -m Lambdata.my_Script
+python -m Lambdata.my_Mod
+```
