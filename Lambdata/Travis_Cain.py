@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def obj_jister(df):
+def obj_lister(df):
     '''
     This function takes in a dataframe and returns a list of columns that contain objects
     '''
