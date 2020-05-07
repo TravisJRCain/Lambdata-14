@@ -11,7 +11,7 @@ Then activate the virtual environment:
 TODO
 
 ```sh
-pip install pip install -i https://test.pypi.org/simple/ lambdata-Travis-Cain==1.3
+pip install pip install -i https://test.pypi.org/simple/ lambdata-Travis-Cain==1.4
 ```
 
 ## Usage

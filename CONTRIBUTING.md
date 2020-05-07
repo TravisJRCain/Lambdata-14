@@ -16,6 +16,9 @@ pip install pip install -i https://test.pypi.org/simple/ lambdata-Travis-Cain==1
 ## Usage
 
 ```sh
-python -m Lambdata.my_Script
-python -m Lambdata.my_Mod
+python -m lambdata.my_script
+python -m lambdata.my_mod
 ```
+
+## Testing
+
